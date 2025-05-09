@@ -13,7 +13,7 @@ Odpowiedz na poniższe pytania:
 3. W chmurze publicznej infrastrukturę powołujemy pisząc kod. Jaka jest zaleta takiego podejścia, zamiast używania do tego celu konsoli administracyjnej?
 
 ## Zadanie II weryfikuje znajomość modelu Infra as Code. 
-Jak wiesz, w chmurze infrastrukturę tworzymy opisując ją kodem. Terraform jest de factor standardem. Utwórz pięć koszyków w usłudze object storage używając terraform, wybierz dowolne nazwy, spróbuj dostarczyć kod optymalny, puść wodze fantazji dając możliwość parametryzacji.
+Jak wiesz, w chmurze infrastrukturę tworzymy opisując ją kodem. Terraform jest de facto standardem. Utwórz pięć koszyków w usłudze object storage używając terraform, wybierz dowolne nazwy, spróbuj dostarczyć kod optymalny, puść wodze fantazji dając możliwość parametryzacji.
 
 ## Zadanie III weryfikuje umiejętność uruchomienia przykładowej aplikacji w chmurze
 Zaproponuj architekturę prostej aplikacji web [kod żródłowy](./src/app.py) w chmurze publicznej. Rozwiązanie powinno zawierać diagram, (np: draw.io) oraz odpowiedzi na pytania:
@@ -31,3 +31,7 @@ Będziemy oceniać
 •	umiejętność wykorzystania usług chmur publicznych do uruchomienia przykładowej aplikacji
 •	jakość rozwiązania 
 •	pomysłowość i samodzielność 
+
+# Disclaimer
+
+W opracowaniu rozwiązania możesz korzystać z asystentów (AI), my również się wspomagamy, ale ta metoda nie może zastąpić gruntownej wiedzy z danego obszaru, którą powinieneś posiadać.
